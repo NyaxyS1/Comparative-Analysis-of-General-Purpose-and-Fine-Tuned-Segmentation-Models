@@ -12,6 +12,8 @@ UNet vs SAM/Mask2Former: benchmark of fine-tuned vs zero-shot segmentation. Metr
 
 ## 🖼️ Результаты
 Обе модели сегментации показали достойные результаты, но оценить их математически относительно друг друга не представляется возможным, так как SAM создает слишком большое количество масок, не предусмотренных выбранным датасетом
+<img width="1048" height="702" alt="image" src="https://github.com/user-attachments/assets/f085ddd6-a037-415e-9abc-a3bb3e704012" />
+
 ## 📊 Итоговое сравнение
 | Модель | IoU |
 |--------|------|
